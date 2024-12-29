@@ -34,6 +34,9 @@ c
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/TypeORM-%230095D5.svg?style=for-the-badge&logo=typeorm&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Mongoose-%234ea94b.svg?style=for-the-badge&logo=mongoose&logoColor=white"/>
+
 
 
 
