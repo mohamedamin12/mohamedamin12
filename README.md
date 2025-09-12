@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in **Backend Development & Microservices**
 - 💞️ I’m looking to collaborate on **NestJS, Node.js, and ReactJS projects**
-- 📫 How to reach me? **mohamedamin.dev@gmail.com**
+- 📫 How to reach me? **mohamedamin01620@gmail.com**
 - 💻 My LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-amin-b67019216/)
 - 🐙 My GitHub: [GitHub Profile](https://github.com/mohamedamin12)
 
