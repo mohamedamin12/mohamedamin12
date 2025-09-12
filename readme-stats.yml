@@ -1,5 +1,4 @@
-name: Generate README Stats
-
+name: Update Readme Stats
 on:
   schedule:
     - cron: "0 * * * *" # يحدث كل ساعة
