@@ -1,13 +1,17 @@
 name: Update Readme Stats
+
 on:
   schedule:
-    - cron: "0 * * * *" # يحدث كل ساعة
+    - cron: "0 */6 * * *" # يحدث كل 6 ساعات
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
       - name: Generate Stats
         uses: anuraghazra/github-readme-stats@master
         with:
