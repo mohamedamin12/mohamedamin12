@@ -1,0 +1,15 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 * * * *" # يحدث كل ساعة (ممكن تغيره)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
