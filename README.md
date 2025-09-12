@@ -1,7 +1,20 @@
 # Hi there, I'm Mohamed! 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mohamedamin12&show_icons=true&theme=gruvbox&count_private=true"/>
-<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamin12&layout=compact&count_private=true"/>
+  
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohamedamin12&show_icons=true&count_private=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" 
+    width="47%" 
+    height="190"
+  />
+  <img 
+    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamin12&layout=compact&count_private=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8" 
+    width="47%" 
+    height="190"
+  />
+</p>
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 ---
