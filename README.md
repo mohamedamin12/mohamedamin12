@@ -12,7 +12,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mohamedamin12&show_icons=true&count_private=true&include_all_commits=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" 
+    src="https://github-readme-stats.vercel.app/api?username=mohamedamin12&show_icons=true&count_private=true&include_all_commits=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866&cache_seconds=3600" 
     height="180"
   />
   <img 
@@ -20,10 +20,11 @@
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamin12&layout=compact&langs_count=8&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamin12&layout=compact&langs_count=8&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&cache_seconds=3600" 
     height="180"
   />
 </p>
+
 
 ---
 
