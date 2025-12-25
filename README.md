@@ -11,9 +11,8 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedamin12&show_icons=true&count_private=true&include_all_commits=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866&cache_seconds=3600" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedamin12&theme=react&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=199260&currStreakLabel=B6E7D8" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamin12&layout=compact&langs_count=8&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&cache_seconds=3600" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohamedamin12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohamedamin12&layout=compact&theme=algolia" height="150" />
 </p>
 
 
